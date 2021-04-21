@@ -6,7 +6,7 @@
 <div align="center">
 <li>🌱 I’m currently taking a deep dive into the complex things in React </li>
 <li>👯 I am always looking to collaborate with other developers and designers, so please feel free to connect!</li>
-<li>🥅 <b>What I'm Working On:</b> My One-Time SignUp Application that connects job applicants and employee referrals to mini-interviews</li>
+<li>🥅 <b>What I'm Working On:</b> A one-time signUp Application that connects job applicants and employee referrals to mini-interviews</li>
 </div>
 
 <div align="center">
