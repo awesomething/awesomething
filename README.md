@@ -4,7 +4,7 @@
 <h3 align="center"> I'm a Full Stack Engineer who loves to solve new challenging problems and create interesting concepts. </h3>
 
 <div align="center">
-<li>🌱 I’m currently taking a deep dive into the complex things in React </li>
+<li>🌱 I’m currently taking a deep dive into the complex things in ThrereJs and React </li>
 <li>👯 I am always looking to collaborate with other developers and designers, so please feel free to connect!</li>
 <li>🥅 <b>What I'm Working On:</b> A one-time signUp Application that connects job applicants and employee referrals to mini-interviews</li>
 </div>
